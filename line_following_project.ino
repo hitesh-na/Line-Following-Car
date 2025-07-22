@@ -1,4 +1,4 @@
-// Black Line Follower 
+//  Line Follower 
 
 int IR2=9;    //left Sensor
 // motor one
